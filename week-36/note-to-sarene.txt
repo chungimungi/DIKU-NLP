@@ -1,7 +1,0 @@
-Your tasks
-
-1. Do the english word count
-2. Do the language word counts
-3. along with with the word cloud print the most common words in both english and given language
-
-Then read up on the other codes i.e entire notebook
