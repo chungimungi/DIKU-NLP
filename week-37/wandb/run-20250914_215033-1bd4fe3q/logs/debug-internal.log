@@ -1,0 +1,9 @@
+{"time":"2025-09-14T21:50:34.0362677+02:00","level":"INFO","msg":"stream: starting","core version":"0.19.5","symlink path":"c:\\Users\\aarus\\Desktop\\Github\\DIKU-NLP\\week-37\\wandb\\run-20250914_215033-1bd4fe3q\\logs\\debug-core.log"}
+{"time":"2025-09-14T21:50:34.3338209+02:00","level":"INFO","msg":"created new stream","id":"1bd4fe3q"}
+{"time":"2025-09-14T21:50:34.3338209+02:00","level":"INFO","msg":"stream: started","id":"1bd4fe3q"}
+{"time":"2025-09-14T21:50:34.3338209+02:00","level":"INFO","msg":"sender: started","stream_id":"1bd4fe3q"}
+{"time":"2025-09-14T21:50:34.3338209+02:00","level":"INFO","msg":"handler: started","stream_id":"1bd4fe3q"}
+{"time":"2025-09-14T21:50:34.3338209+02:00","level":"INFO","msg":"writer: Do: started","stream_id":"1bd4fe3q"}
+{"time":"2025-09-14T21:50:34.8547279+02:00","level":"INFO","msg":"Starting system monitor"}
+{"time":"2025-09-14T21:51:24.4418578+02:00","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 192.168.0.122:60586->35.186.228.49:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond."}
+{"time":"2025-09-14T21:55:22.6438126+02:00","level":"INFO","msg":"Pausing system monitor"}
