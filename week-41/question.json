@@ -92,13 +92,8 @@
         },
         {
             "question": "グレートバリアリーフはどこにありますか？",
-<<<<<<< Updated upstream
-            "context": "The Great Barrier Reef lies off the northeastern coast of Australia, primarily along the shores of Queensland in the Coral Sea. It is the world’s largest coral reef system, consisting of thousands of reefs and hundreds of islands spread over a vast area. The reef supports a wide array of marine life and is recognized as a UNESCO World Heritage Site. It is both an ecological treasure and a major tourist attraction, though it faces environmental challenges such as coral bleaching.",
-            "lang": "jp",
-=======
             "context": "Coral reefs are some of the most diverse ecosystems on Earth, home to thousands of species of fish, corals, and other marine life. They face threats from climate change, pollution, and human activity, and are studied for their ecological importance.",
             "lang": "ja",
->>>>>>> Stashed changes
             "answerable": false,
             "answer_start": "",
             "answer": "",
