@@ -92,8 +92,13 @@
         },
         {
             "question": "グレートバリアリーフはどこにありますか？",
+<<<<<<< Updated upstream
             "context": "The Great Barrier Reef lies off the northeastern coast of Australia, primarily along the shores of Queensland in the Coral Sea. It is the world’s largest coral reef system, consisting of thousands of reefs and hundreds of islands spread over a vast area. The reef supports a wide array of marine life and is recognized as a UNESCO World Heritage Site. It is both an ecological treasure and a major tourist attraction, though it faces environmental challenges such as coral bleaching.",
             "lang": "jp",
+=======
+            "context": "Coral reefs are some of the most diverse ecosystems on Earth, home to thousands of species of fish, corals, and other marine life. They face threats from climate change, pollution, and human activity, and are studied for their ecological importance.",
+            "lang": "ja",
+>>>>>>> Stashed changes
             "answerable": false,
             "answer_start": "",
             "answer": "",
@@ -102,7 +107,7 @@
         {
             "question": "光速が一定なのはなぜですか？",
             "context": "Light behaves differently in various mediums, such as water, glass, and vacuum, and its properties are essential for technologies like fiber optics and lasers. Understanding light has been central to the development of physics and optics over centuries.",
-            "lang": "jp",
+            "lang": "ja",
             "answerable": false,
             "answer_start": "",
             "answer": "",
@@ -111,7 +116,7 @@
         {
             "question": "周期表にはいくつの元素がありますか？",
             "context": "The periodic table currently includes 118 confirmed chemical elements. These elements are arranged in order of increasing atomic number, which corresponds to the number of protons in an atom's nucleus. The table is organized into rows called periods and columns known as groups, reflecting recurring patterns in electron configurations and chemical properties. While the heaviest elements are synthetic and exist only briefly in laboratory conditions, lighter elements occur naturally and form the basis of matter on Earth.",
-            "lang": "jp",
+            "lang": "ja",
             "answerable": true,
             "answer_start": "",
             "answer": "118",
@@ -120,7 +125,7 @@
         {
             "question": "印象派運動に参加した芸術家には誰がいましたか？",
             "context": "The Impressionist movement emerged in France in the late 19th century with artists who emphasized capturing light, everyday scenes, and fleeting impressions rather than detailed realism. Prominent figures included Claude Monet, Pierre-Auguste Renoir, Edgar Degas, Camille Pissarro, Mary Cassatt, and Berthe Morisot. They often painted outdoors and used loose brushwork to depict natural light and movement. The movement challenged academic artistic standards of the time and significantly influenced modern art.",
-            "lang": "jp",
+            "lang": "ja",
             "answerable": true,
             "answer_start": "",
             "answer": "Claude Monet, Pierre-Auguste Renoir, Edgar Degas, Camille Pissarro, Mary Cassatt, Berthe Morisot",
@@ -129,7 +134,7 @@
         {
             "question": "モンゴル帝国を築いたのは誰ですか？",
             "context": "Genghis Khan, originally named Temujin, founded the Mongol Empire in the early 13th century. He united various nomadic tribes in the Mongolian steppe and was proclaimed the supreme ruler of the Mongols. Under his leadership, the empire expanded rapidly through military campaigns and conquests across Asia and into parts of Europe. The Mongol Empire became the largest contiguous land empire in history, and Genghis Khan's legacy deeply influenced trade, culture, and political structures across vast regions.",
-            "lang": "jp",
+            "lang": "ja",
             "answerable": true,
             "answer_start": "",
             "answer": "Genghis Khan",
@@ -138,7 +143,7 @@
         {
             "question": "オリンピックの起源は何ですか？",
             "context": "The ancient Olympic Games originated in Olympia, a sanctuary site in ancient Greece, traditionally dated to 776 BCE. The games were held in honor of the god Zeus and occurred every four years. Competitions included various athletic events such as running, wrestling, and chariot racing, with participants representing different Greek city-states. Over time, the games grew in prestige and religious significance until they were eventually banned by Roman emperor Theodosius I in the late 4th century CE.",
-            "lang": "jp",
+            "lang": "ja",
             "answerable": true,
             "answer_start": "",
             "answer": "Ancient Greece, Olympia, in 776 BCE",
@@ -147,7 +152,7 @@
         {
             "question": "タイタニック号はいつ沈没したのですか？",
             "context": "The RMS Titanic sank in the early hours of April 15, 1912, after striking an iceberg during its maiden voyage from Southampton to New York City. The collision occurred on the night of April 14, and the ship went down less than three hours later in the North Atlantic Ocean. Despite being considered advanced for its time, the Titanic did not have enough lifeboats for all passengers and crew. The disaster resulted in the loss of more than 1,500 lives and led to major changes in maritime safety regulations.",
-            "lang": "jp",
+            "lang": "ja",
             "answerable": true,
             "answer_start": "",
             "answer": "April 15, 1912",
@@ -156,7 +161,7 @@
         {
             "question": "最初の近代民主主義はどこで確立されますか？",
             "context": "Many historians identify ancient Greece, particularly Athens in the 5th century BCE, as the birthplace of democracy in its earliest form. However, the concept of modern representative democracy is often associated with developments in places like the United States and parts of Europe in the 18th and 19th centuries. The American Revolution and the establishment of the U.S. Constitution in the late 1700s, as well as the parliamentary reforms in Great Britain, marked significant milestones in modern democratic governance.",
-            "lang": "jp",
+            "lang": "ja",
             "answerable": true,
             "answer_start": "",
             "answer": "Athens in ancient Greece",
@@ -165,7 +170,7 @@
         {
             "question": "なぜ地震はプレート境界で発生しますか？",
             "context": "Earthquakes often happen where tectonic plates meet because the Earth's lithosphere is divided into large sections that move slowly over the asthenosphere. At their boundaries, plates may collide, pull apart, or slide past one another, creating stress in the crust. When the accumulated stress surpasses the strength of rocks, the energy is released as seismic waves, producing an earthquake. Different types of boundaries—such as convergent, divergent, and transform—can generate earthquakes of varying intensity and frequency.",
-            "lang": "jp",
+            "lang": "ja",
             "answerable": true,
             "answer_start": "",
             "answer": "Because of stress buildup where tectonic plates meet",
@@ -174,7 +179,7 @@
         {
             "question": "印刷機は社会をどのように変えりましたか？",
             "context": "The printing press, developed by Johannes Gutenberg in the mid-15th century, revolutionized the way information was produced and shared. Movable type allowed for the rapid and cost-effective reproduction of texts, significantly increasing literacy and education. Printed books and pamphlets helped spread new ideas across Europe, contributing to movements such as the Renaissance and the Reformation. The press also encouraged the standardization of languages and facilitated the preservation of knowledge on a larger scale than ever before.",
-            "lang": "jp",
+            "lang": "ja",
             "answerable": true,
             "answer_start": "",
             "answer": "It spread knowledge quickly and boosted literacy",
