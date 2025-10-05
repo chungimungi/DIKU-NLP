@@ -82,7 +82,7 @@
             "answer_inlang": "Monte Kilimanjaro"
         },
         {
-            "question": "Quando foi o lançamento da Estação Especial Internacional?",
+            "question": "Quando foi o lançamento da Estação Espacial Internacional?",
             "context": "The first module of the International Space Station, named Zarya, was launched on November 20, 1998. Developed with Russian and American cooperation, it served as the initial building block of what would become a large orbiting research laboratory. Additional modules and components were gradually added through a series of international launches and assembly missions. Over time, the ISS grew into a long-term habitation and microgravity research facility involving multiple space agencies.",
             "lang": "pt",
             "answerable": true,
