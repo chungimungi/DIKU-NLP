@@ -6,8 +6,8 @@
             "lang": "pt",
             "answerable": false,
             "answer_start": "",
-            "answer": "Alexander Fleming",
-            "answer_inlang": "Alexander Fleming"
+            "answer": "",
+            "answer_inlang": ""
         },
         {
             "question": "Qual é a capital da Argentina?",
@@ -15,8 +15,8 @@
             "lang": "pt",
             "answerable": false,
             "answer_start": "",
-            "answer": "Buenos Aires",
-            "answer_inlang": "Buenos Aires"
+            "answer": "",
+            "answer_inlang": ""
         },
         {
             "question": "Quando se deu a queda do Muro de Berlin?",
@@ -96,8 +96,8 @@
             "lang": "jp",
             "answerable": false,
             "answer_start": "",
-            "answer": "Queensland, Australia",
-            "answer_inlang": "オーストラリア、クイーンズランド州"
+            "answer": "",
+            "answer_inlang": ""
         },
         {
             "question": "光速が一定なのはなぜですか？",
@@ -105,8 +105,8 @@
             "lang": "jp",
             "answerable": false,
             "answer_start": "",
-            "answer": "Because it is a fundamental principle of special relativity",
-            "answer_inlang": "特殊相対性理論の基本原理であるため"
+            "answer": "",
+            "answer_inlang": ""
         },
         {
             "question": "周期表にはいくつの元素がありますか？",
@@ -186,8 +186,8 @@
             "lang": "hi",
             "answerable": false,
             "answer_start": "",
-            "answer": "German, French, Italian, Romansh",
-            "answer_inlang": "जर्मन, फ्रेंच, इतालवी, रोमांश"
+            "answer": "",
+            "answer_inlang": ""
         },
         {
             "question": "चार मौसमों की रचना किसने की?",
@@ -195,8 +195,8 @@
             "lang": "hi",
             "answerable": false,
             "answer_start": "",
-            "answer": "Antonio Vivaldi",
-            "answer_inlang": "एंटोनियो विवाल्डी"
+            "answer": "",
+            "answer_inlang": ""
         },
         {
             "question": "ऑरोरा बोरियालिस का क्या कारण है?",
