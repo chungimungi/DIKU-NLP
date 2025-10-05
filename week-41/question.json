@@ -11,7 +11,7 @@
         },
         {
             "question": "Qual é a capital da Argentina?",
-            "context": "Buenos Aires is the capital and largest city of Argentina. It is located on the eastern shore of the Río de la Plata estuary along the southeastern coast of South America. Known for its European-influenced architecture, cultural life, and historical significance, Buenos Aires functions as Argentina’s political, economic, and commercial hub. The city has its own autonomous status and is often referred to as the 'Paris of South America' due to its cultural diversity and urban style.",
+            "context": "Buenos Aires is the capital and largest city of Argentina. It is located on the eastern shore of the Río de la Plata estuary along the southeastern coast of South America. Known for its European-influenced architecture, cultural life, and historical significance, Buenos Aires functions as Argentina's political, economic, and commercial hub. The city has its own autonomous status and is often referred to as the 'Paris of South America' due to its cultural diversity and urban style.",
             "lang": "pt",
             "answerable": "",
             "answer_start": "",
@@ -29,7 +29,7 @@
         },
         {
             "question": "Onde foi encontrada a Pedra de Roseta?",
-            "context": "The Rosetta Stone was discovered in 1799 by French soldiers during Napoleon Bonaparte’s campaign in Egypt. It was found near the town of Rashid, historically known as Rosetta, located in the Nile Delta. The stone bears an inscription in three scripts—hieroglyphic, demotic, and ancient Greek—which eventually enabled scholars, most notably Jean-François Champollion, to decipher Egyptian hieroglyphs. After its discovery, the stone was seized by the British and taken to the British Museum, where it remains on display.",
+            "context": "The Rosetta Stone was discovered in 1799 by French soldiers during Napoleon Bonaparte's campaign in Egypt. It was found near the town of Rashid, historically known as Rosetta, located in the Nile Delta. The stone bears an inscription in three scripts—hieroglyphic, demotic, and ancient Greek—which eventually enabled scholars, most notably Jean-François Champollion, to decipher Egyptian hieroglyphs. After its discovery, the stone was seized by the British and taken to the British Museum, where it remains on display.",
             "lang": "pt",
             "answerable": "",
             "answer_start": "",
@@ -38,7 +38,7 @@
         },
         {
             "question": "Quando aconteceu o colapso do Império Romano?",
-            "context": "The decline of the Western Roman Empire was the result of multiple interrelated factors, including economic instability, political corruption, military overextension, and pressure from external groups such as Germanic tribes. Over time, administrative divisions and internal power struggles weakened the central authority. Economic troubles, heavy taxation, and reliance on mercenary forces contributed to the empire’s vulnerability. The traditional date for its fall is 476 CE, when the last Western Roman emperor, Romulus Augustulus, was deposed.",
+            "context": "The decline of the Western Roman Empire was the result of multiple interrelated factors, including economic instability, political corruption, military overextension, and pressure from external groups such as Germanic tribes. Over time, administrative divisions and internal power struggles weakened the central authority. Economic troubles, heavy taxation, and reliance on mercenary forces contributed to the empire's vulnerability. The traditional date for its fall is 476 CE, when the last Western Roman emperor, Romulus Augustulus, was deposed.",
             "lang": "pt",
             "answerable": "",
             "answer_start": "",
@@ -92,7 +92,7 @@
         },
         {
             "question": "グレートバリアリーフはどこにありますか？",
-            "context": "The Great Barrier Reef lies off the northeastern coast of Australia, primarily along the shores of Queensland in the Coral Sea. It is the world’s largest coral reef system, consisting of thousands of reefs and hundreds of islands spread over a vast area. The reef supports a wide array of marine life and is recognized as a UNESCO World Heritage Site. It is both an ecological treasure and a major tourist attraction, though it faces environmental challenges such as coral bleaching.",
+            "context": "The Great Barrier Reef lies off the northeastern coast of Australia, primarily along the shores of Queensland in the Coral Sea. It is the world's largest coral reef system, consisting of thousands of reefs and hundreds of islands spread over a vast area. The reef supports a wide array of marine life and is recognized as a UNESCO World Heritage Site. It is both an ecological treasure and a major tourist attraction, though it faces environmental challenges such as coral bleaching.",
             "lang": "jp",
             "answerable": "",
             "answer_start": "",
@@ -164,7 +164,7 @@
         },
         {
             "question": "なぜ地震はプレート境界で発生しますか？",
-            "context": "Earthquakes often happen where tectonic plates meet because the Earth’s lithosphere is divided into large sections that move slowly over the asthenosphere. At their boundaries, plates may collide, pull apart, or slide past one another, creating stress in the crust. When the accumulated stress surpasses the strength of rocks, the energy is released as seismic waves, producing an earthquake. Different types of boundaries—such as convergent, divergent, and transform—can generate earthquakes of varying intensity and frequency.",
+            "context": "Earthquakes often happen where tectonic plates meet because the Earth's lithosphere is divided into large sections that move slowly over the asthenosphere. At their boundaries, plates may collide, pull apart, or slide past one another, creating stress in the crust. When the accumulated stress surpasses the strength of rocks, the energy is released as seismic waves, producing an earthquake. Different types of boundaries—such as convergent, divergent, and transform—can generate earthquakes of varying intensity and frequency.",
             "lang": "jp",
             "answerable": "",
             "answer_start": "",
@@ -191,7 +191,7 @@
         },
         {
             "question": "चार मौसमों की रचना किसने की?",
-            "context": "The Four Seasons is a set of four violin concertos composed by Antonio Vivaldi, an Italian Baroque composer, in the early 18th century. Each concerto musically represents a different season of the year and is often accompanied by sonnets that describe the scenes being depicted. The compositions are among Vivaldi’s best-known works and have become some of the most popular pieces in the classical repertoire. They showcase his innovative use of musical imagery and violin technique.",
+            "context": "The Four Seasons is a set of four violin concertos composed by Antonio Vivaldi, an Italian Baroque composer, in the early 18th century. Each concerto musically represents a different season of the year and is often accompanied by sonnets that describe the scenes being depicted. The compositions are among Vivaldi's best-known works and have become some of the most popular pieces in the classical repertoire. They showcase his innovative use of musical imagery and violin technique.",
             "lang": "hi",
             "answerable": "",
             "answer_start": "",
@@ -200,11 +200,11 @@
         },
         {
             "question": "ऑरोरा बोरियालिस का क्या कारण है?",
-            "context": "The aurora borealis, or northern lights, is caused by charged particles from the Sun interacting with Earth’s magnetic field and atmosphere. When solar wind particles collide with gases such as oxygen and nitrogen in the upper atmosphere, they excite the atoms, which release light as they return to their normal state. These luminous displays usually appear near polar regions where the magnetic field funnels the particles. Auroras vary in color and intensity depending on solar activity and atmospheric conditions.",
+            "context": "The aurora borealis, or northern lights, is caused by charged particles from the Sun interacting with Earth's magnetic field and atmosphere. When solar wind particles collide with gases such as oxygen and nitrogen in the upper atmosphere, they excite the atoms, which release light as they return to their normal state. These luminous displays usually appear near polar regions where the magnetic field funnels the particles. Auroras vary in color and intensity depending on solar activity and atmospheric conditions.",
             "lang": "hi",
             "answerable": "",
             "answer_start": "",
-            "answer": "Charged solar particles colliding with Earth’s atmosphere",
+            "answer": "Charged solar particles colliding with Earth's atmosphere",
             "answer_inlang": "आवेशित सौर कण पृथ्वी के वायुमंडल से टकरा रहे हैं"
         },
         {
