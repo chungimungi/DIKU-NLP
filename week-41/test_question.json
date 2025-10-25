@@ -1,0 +1,275 @@
+{
+    "questions": [
+        {
+            "question": "Quem pintou a Mona Lisa?",
+            "context": "The Mona Lisa is a portrait painted by the Italian artist Leonardo da Vinci during the Renaissance. It is considered one of the most famous works of art in the world, renowned for the subject's enigmatic smile and the mastery of the sfumato technique. The painting is on permanent display at the Louvre Museum in Paris, where it attracts millions of visitors every year. The identity of the woman in the portrait is still a subject of academic debate.",
+            "lang": "pt",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Leonardo da Vinci",
+            "answer_inlang": "Leonardo da Vinci"
+        },
+        {
+            "question": "Qual é a capital de Portugal?",
+            "context": "Portugal is a country located in southwestern Europe on the Iberian Peninsula. It is known for its rich maritime history, colorful architecture, and cuisine. Its cultural influence extends worldwide, a legacy of its former vast network of colonies.",
+            "lang": "pt",
+            "answerable": false,
+            "answer_start": "",
+            "answer": "",
+            "answer_inlang": ""
+        },
+        {
+            "question": "Em que ano o homem pisou a Lua pela primeira vez?",
+            "context": "NASA's Apollo 11 mission was a historic moment in space exploration. On July 20, 1969, astronauts Neil Armstrong and Buzz Aldrin became the first humans to land on the Moon. Armstrong's famous quote, 'That's one small step for a man, one giant leap for mankind,' was broadcast to millions on Earth. The mission was a significant milestone in the Space Race between the United States and the Soviet Union.",
+            "lang": "pt",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "1969",
+            "answer_inlang": "1969"
+        },
+        {
+            "question": "Qual é o elemento mais abundante na crosta terrestre?",
+            "context": "The most abundant chemical element in the Earth's crust by mass is oxygen, making up about 46.6% of the total. It is followed by silicon (27.7%), which is why silicate minerals are the most common in the crust. Other major elements include aluminum, iron, and calcium. Although oxygen is the most abundant, it is rarely found in its free form and is usually bonded with other elements to form oxides and silicates.",
+            "lang": "pt",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Oxygen",
+            "answer_inlang": "Oxigénio"
+        },
+        {
+            "question": "Onde se originou o Carnaval?",
+            "context": "Carnival is a festive celebration with strong historical and religious roots. Its origins can be traced back to pagan festivals in ancient Rome, such as Saturnalia. It was later adapted by the Catholic Church as a period of festivity before Lent. While celebrated worldwide, the Carnival of Brazil is perhaps the most famous, known for its vibrant samba parades, elaborate costumes, and street parties in cities like Rio de Janeiro and Salvador.",
+            "lang": "pt",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Its origins can be traced to pagan festivals in ancient Rome",
+            "answer_inlang": "As suas origens podem ser rastreadas até festivais pagãos na Roma antiga"
+        },
+        {
+            "question": "Qual é a camada mais externa da Terra?",
+            "context": "The Earth is composed of several layers. The outermost layer is the crust, which is the solid, rocky layer we live on. Below the crust is the mantle, a thick layer of semi-solid rock. The center of the Earth is the core, which is divided into a liquid outer core and a solid inner core. The crust is the thinnest of the layers, varying in thickness from about 5 to 70 kilometers.",
+            "lang": "pt",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "The crust",
+            "answer_inlang": "A crosta"
+        },
+        {
+            "question": "Qual é a cidade mais populosa do mundo?",
+            "context": "Determining the world's most populous city can be complex, depending on how city boundaries are defined (city proper, metropolitan area, or urban agglomeration). However, Tokyo, Japan, is consistently ranked as the largest metropolitan area in the world, with a population exceeding 37 million people. Its vast urban agglomeration combines densely populated cities and suburbs into an extensive cityscape.",
+            "lang": "pt",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Tokyo",
+            "answer_inlang": "Tóquio"
+        },
+        {
+            "question": "Qual é a distância média da Terra ao Sol?",
+            "context": "The distance from the Earth to the Sun is not constant because Earth's orbit is elliptical. However, the average distance is approximately 149.6 million kilometers (92.96 million miles). This distance is known as one astronomical unit (AU) and is often used as a unit of measurement for distances within our solar system. Light from the Sun takes about 8 minutes and 20 seconds to reach Earth.",
+            "lang": "pt",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Approximately 149.6 million kilometers",
+            "answer_inlang": "Aproximadamente 149,6 milhões de quilómetros"
+        },
+        {
+            "question": "Como funcionam as vacinas?",
+            "context": "Vaccines work by training the body's immune system to recognize and fight off pathogens like viruses or bacteria. They introduce a harmless or weakened form of the pathogen, or a part of it, into the body. This stimulates the immune system to produce antibodies and memory cells. If the person is exposed to the real pathogen in the future, their immune system is prepared to attack it quickly, preventing or reducing the severity of the disease.",
+            "lang": "pt",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "By training the immune system to recognize and fight pathogens by introducing a harmless or weakened form of them",
+            "answer_inlang": "Treinando o sistema imunitário para reconhecer e combater agentes patogénicos, introduzindo uma forma inofensiva ou enfraquecida deles"
+        },
+        {
+            "question": "Qual é o nome do rio mais longo de Portugal?",
+            "context": "Portugal has a diverse river system, with rivers playing an important role in its geography, agriculture, and history. Many of its major rivers originate in Spain and flow westward towards the Atlantic Ocean, defining landscapes and borders.",
+            "lang": "pt",
+            "answerable": false,
+            "answer_start": "",
+            "answer": "",
+            "answer_inlang": ""
+        },
+        {
+            "question": "ताजमहल किसने बनवाया था?",
+            "context": "The Taj Mahal is a white marble mausoleum located in the city of Agra, India. It was built by the Mughal emperor Shah Jahan in memory of his beloved wife Mumtaz Mahal. Its construction began in 1632 and was completed in 1653. The Taj Mahal is considered a masterpiece of Mughal architecture and is one of the Seven Wonders of the World. It was declared a UNESCO World Heritage Site in 1983.",
+            "lang": "hi",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Mughal Emperor Shah Jahan",
+            "answer_inlang": "मुगल सम्राट शाहजहाँ"
+        },
+        {
+            "question": "भारत के प्रथम प्रधानमंत्री कौन थे?",
+            "context": "Jawaharlal Nehru was the first Prime Minister of India. He took office after India's independence on August 15, 1947, and served until his death in 1964. He was a prominent leader of the Indian National Congress and played a crucial role in the Indian independence movement. Nehru helped lay the foundation of a modern, secular, and democratic India.",
+            "lang": "hi",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Jawaharlal Nehru",
+            "answer_inlang": "जवाहरलाल नेहरू"
+        },
+        {
+            "question": "मानव शरीर की सबसे बड़ी हड्डी कौन सी है?",
+            "context": "The largest and strongest bone in the human body is the femur, also known as the thigh bone. It extends from the hip joint to the knee joint. The femur plays a crucial role in supporting the body's weight and in activities like walking and running. Its length in an average adult is about 48 centimeters.",
+            "lang": "hi",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "The femur (thigh bone)",
+            "answer_inlang": "फीमर (जांघ की हड्डी)"
+        },
+        {
+            "question": "महात्मा गांधी का जन्म कब हुआ था?",
+            "context": "Mohandas Karamchand Gandhi, known as Mahatma Gandhi, was a prominent leader of the Indian independence movement. He was born on October 2, 1869, in Porbandar, Gujarat. He led nonviolent civil disobedience to achieve India's freedom from British rule. His birthday is celebrated in India as Gandhi Jayanti and worldwide as the International Day of Non-Violence.",
+            "lang": "hi",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "October 2, 1869",
+            "answer_inlang": "2 अक्टूबर, 1869"
+        },
+        {
+            "question": "सौर मंडल का सबसे बड़ा ग्रह कौन सा है?",
+            "context": "Jupiter is the largest planet in our solar system. It is a gas giant and its mass is more than two and a half times that of all the other planets in the solar system combined. Jupiter is primarily composed of hydrogen and helium. A distinctive feature is its Great Red Spot, a giant storm that has been raging for centuries.",
+            "lang": "hi",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Jupiter",
+            "answer_inlang": "बृहस्पति"
+        },
+        {
+            "question": "प्रकाश संश्लेषण क्या है?",
+            "context": "Photosynthesis is the process by which green plants and some other organisms use sunlight to synthesize nutrients. In this process, plants use chlorophyll to convert carbon dioxide and water into glucose (energy) and oxygen. This process is essential for most life on Earth, as it produces oxygen and is the basis of the food chain.",
+            "lang": "hi",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "The process by which green plants use sunlight to synthesize nutrients from carbon dioxide and water",
+            "answer_inlang": "वह प्रक्रिया जिसके द्वारा हरे पौधे सूर्य के प्रकाश का उपयोग करके कार्बन डाइऑक्साइड और पानी से पोषक तत्वों को संश्लेषित करते हैं"
+        },
+        {
+            "question": "भारत का राष्ट्रीय पशु कौन सा है?",
+            "context": "India is home to diverse wildlife, including many iconic species. The country's unique ecosystems, from mountains to rainforests, support a wide range of animals. Many of these species are protected in India's national parks and wildlife sanctuaries.",
+            "lang": "hi",
+            "answerable": false,
+            "answer_start": "",
+            "answer": "",
+            "answer_inlang": ""
+        },
+        {
+            "question": "भारत में कितने शास्त्रीय नृत्य हैं?",
+            "context": "India has a rich and diverse tradition of performing arts. The history of Indian music and dance dates back centuries, with roots in ancient texts and folk traditions. These art forms are often an integral part of religious and cultural ceremonies and have been passed down through generations.",
+            "lang": "hi",
+            "answerable": false,
+            "answer_start": "",
+            "answer": "",
+            "answer_inlang": ""
+        },
+        {
+            "question": "पृथ्वी पर सबसे बड़ा जानवर कौन सा है?",
+            "context": "The blue whale is the largest animal known to have ever existed on Earth. It can grow up to 30 meters long and weigh up to 200 tons. Its heart alone is the size of a small car. These giant mammals are found in all the world's oceans and feed primarily on tiny shrimp-like animals called krill.",
+            "lang": "hi",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "The Blue Whale",
+            "answer_inlang": "ब्लू व्हेल"
+        },
+        {
+            "question": "भारत में पहली ट्रेन कब चली थी?",
+            "context": "The first passenger train in India ran on April 16, 1853. It ran from Bori Bunder station in Bombay (now Mumbai) to Thane, covering a distance of 34 kilometers. The train had 14 carriages and carried 400 passengers. This event marked the beginning of railways in India, which became crucial for the country's transportation and economy.",
+            "lang": "hi",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "April 16, 1853",
+            "answer_inlang": "16 अप्रैल, 1853"
+        },
+
+        {
+            "question": "グレートバリアリーフはどこにありますか？",
+            "context": "Coral reefs are some of the most diverse ecosystems on Earth, home to thousands of species of fish, corals, and other marine life. They face threats from climate change, pollution, and human activity, and are studied for their ecological importance.",
+            "lang": "ja",
+            "answerable": false,
+            "answer_start": "",
+            "answer": "",
+            "answer_inlang": ""
+        },
+        {
+            "question": "周期表にはいくつの元素がありますか？",
+            "context": "The periodic table currently includes 118 confirmed chemical elements. These elements are arranged in order of increasing atomic number, which corresponds to the number of protons in an atom's nucleus. The table is organized into rows called periods and columns known as groups, reflecting recurring patterns in electron configurations and chemical properties. While the heaviest elements are synthetic and exist only briefly in laboratory conditions, lighter elements occur naturally and form the basis of matter on Earth.",
+            "lang": "ja",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "118",
+            "answer_inlang": "118"
+        },
+        {
+            "question": "オリンピックの起源は何ですか？",
+            "context": "The ancient Olympic Games originated in Olympia, a sanctuary site in ancient Greece, traditionally dated to 776 BCE. The games were held in honor of the god Zeus and occurred every four years. Competitions included various athletic events such as running, wrestling, and chariot racing, with participants representing different Greek city-states. Over time, the games grew in prestige and religious significance until they were eventually banned by Roman emperor Theodosius I in the late 4th century CE.",
+            "lang": "ja",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Ancient Greece, Olympia, in 776 BCE",
+            "answer_inlang": "古代ギリシャ、オリンピア、紀元前776年"
+        },
+        {
+            "question": "なぜ地震はプレート境界で発生しますか？",
+            "context": "Earthquakes often happen where tectonic plates meet because the Earth's lithosphere is divided into large sections that move slowly over the asthenosphere. At their boundaries, plates may collide, pull apart, or slide past one another, creating stress in the crust. When the accumulated stress surpasses the strength of rocks, the energy is released as seismic waves, producing an earthquake. Different types of boundaries—such as convergent, divergent, and transform—can generate earthquakes of varying intensity and frequency.",
+            "lang": "ja",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Because of stress buildup where tectonic plates meet",
+            "answer_inlang": "プレート境界における応力蓄積のため"
+        },
+        {
+            "question": "エベレスト山の標高は？",
+            "context": "Mount Everest is part of the Himalayas on the border between Nepal and China. It is widely known as the highest mountain in the world. It represents the ultimate challenge for mountaineers, with many expeditions attempting to reach its summit. The climate in this region is extremely harsh, and climbing involves significant risks.",
+            "lang": "ja",
+            "answerable": false,
+            "answer_start": "",
+            "answer": "",
+            "answer_inlang": ""
+        },
+        {
+            "question": "ベートーヴェンのフルネームは何ですか？",
+            "context": "Ludwig van Beethoven was a German composer and pianist. He is widely considered one of the greatest figures in the history of classical music. His works span the transition from the Classical to the Romantic period, and he left masterpieces in a wide range of genres, including symphonies, piano concertos, piano sonatas, and string quartets.",
+            "lang": "ja",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Ludwig van Beethoven",
+            "answer_inlang": "ルートヴィヒ・ヴァン・ベートーヴェン"
+        },
+        {
+            "question": "サハラ砂漠はどの大陸にありますか？",
+            "context": "The Sahara Desert is the world's largest hot desert, located in the northern part of the African continent. It covers an area of about 9.4 million square kilometers, occupying a vast portion of the continent. The climate is extremely arid, with a significant temperature difference between day and night. It features diverse terrains such as sand dunes, rocky areas, and gravel plains.",
+            "lang": "ja",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Africa",
+            "answer_inlang": "アフリカ大陸"
+        },
+        {
+            "question": "ミツバチはどのようにして蜜を蜂蜜に変えるのですか？",
+            "context": "Honeybees collect nectar from flowers and carry it back to their hives to make honey. In this process, the bees use their own enzymes to break down the sucrose in the nectar into glucose and fructose. They then fan their wings inside the hive to evaporate water, increasing the sugar concentration, which results in honey that can be stored for a long time. Honey is the bees' food and an important energy source, especially during the winter.",
+            "lang": "ja",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "They use their own enzymes to break down sucrose and evaporate water to increase the sugar concentration",
+            "answer_inlang": "自身の酵素でショ糖を分解し、水分を蒸発させて糖度を高める"
+        },
+        {
+            "question": "DNAの二重らせん構造を発見したのは誰ですか？",
+            "context": "The double helix structure of DNA (deoxyribonucleic acid) was elucidated in 1953 by James Watson and Francis Crick. Their discovery was heavily dependent on the X-ray diffraction research conducted by Rosalind Franklin and Maurice Wilkins. This discovery revealed how genetic information is stored and replicated, revolutionizing the field of molecular biology.",
+            "lang": "ja",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "James Watson and Francis Crick",
+            "answer_inlang": "ジェームズ・ワトソンとフランシス・クリック"
+        },
+        {
+            "question": "人間が音を聞く仕組みは？",
+            "context": "Humans hear sound using their ears. Sound reaches the ear as vibrations in the air (sound waves). The outer ear collects the sound waves, causing the eardrum in the middle ear to vibrate. This vibration is amplified by small bones called ossicles and transmitted to an organ in the inner ear called the cochlea. Hair cells inside the cochlea convert the vibrations into electrical signals, which are then sent to the brain via the auditory nerve, allowing us to perceive them as sound.",
+            "lang": "ja",
+            "answerable": true,
+            "answer_start": "",
+            "answer": "Sound waves vibrate the eardrum, and these vibrations are converted into electrical signals in the inner ear and sent to the brain",
+            "answer_inlang": "音波が鼓膜を振動させ、その振動が内耳で電気信号に変換されて脳に送られる"
+        }
+    ]
+}
